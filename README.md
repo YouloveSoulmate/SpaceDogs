@@ -1,8 +1,8 @@
 ## Для запуска
 1. Установите [Node.js](https://nodejs.org/en) 
 2. В папке проекта запустите команды
-	2.1 `npm install`
-	2.2 `npm start`
+	2.1. `npm install`
+	2.2. `npm start`
 3. В браузере откройте `localhost:3000`.
 
 ## Внесение изменений
