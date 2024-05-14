@@ -14,4 +14,5 @@
 - SolanaInput
 - SpacedogsInput
 - SendSolButton
+
 Из них WalletMultiButton и WalletDisconnectButton являются сторонними и содержат баг - они не принимают другие классы. Поэтому с помощью Bootstrap их будет сложно кастомизировать. 
