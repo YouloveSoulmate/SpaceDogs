@@ -530,3 +530,39 @@ li {
 .li-menu {
 	margin-right: 20px;
 }
+
+.wallet-adapter-dropdown {
+	position: relative;
+    display: flex !important;
+    justify-content: center;
+	margin-top: 1.5rem !important;
+}
+
+.wallet-adapter-dropdown button {
+	flex-grow: 1;
+	display: flex;
+	justify-content: center;
+	line-height: 24px;
+}
+
+section.buy-section button {
+	position: relative;
+    display: flex !important;
+    justify-content: center;
+	margin-top: 1.5rem !important;
+	flex-grow: 1;
+	display: flex;
+	justify-content: center;
+	line-height: 24px !important;
+	background-color: #512da8 !important;
+}
+
+section.buy-section button:hover {
+	background-color: #1a1f2e !important;
+}
+
+section.buy-section button[disabled] {
+	background-color: #404144 !important;
+	color: #999 !important;
+    cursor: not-allowed !important;
+}

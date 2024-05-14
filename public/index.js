@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
 	// конечная дата, например 1 июля 2021
-	const deadline = new Date(2024, 06, 01)
+	const deadline = new Date(2024, 6, 1)
 	let timerId = null
 	function declensionNum(num, words) {
 		return words[
